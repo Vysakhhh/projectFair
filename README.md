@@ -1,5 +1,5 @@
 
-# ProjectFAir
+# ProjectFair
 
 ## Overview
 
