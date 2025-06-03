@@ -11,7 +11,7 @@ ProjectFAir is a full-stack web application. It provides a user-friendly interfa
 - **React:** Frontend library for interactive UI
 - **Node.js:** JavaScript runtime for the backend server
 - **Multer:** Middleware for handling file uploads
-- **Additional Libraries:** Redux for state management, JWT for authentication, Axios for API calls
+- **Additional Libraries:** Context API for state management, JWT for authentication, Axios for API calls
 
 
 
